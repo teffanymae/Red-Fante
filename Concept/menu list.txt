@@ -1,0 +1,62 @@
+Bread
+* Croissant
+ - Strawberry 60
+ - Chocolate 60
+ - Matcha 60
+ - Ham & Tomato 130
+ - Cheese & Egg 130
+ - Ham, Cheese & Coleslaw 130
+
+* Pastry
+ - Red Bean Bun 85
+ - Cinnamon Roll 85
+ - Cheese Bun 85
+
+* Triangle Sandwich
+ - Egg & Ham 150 
+ - Coleslaw & Vegetables 150
+ - Tuna, Potato & Egg 150 
+ - Tuna, Potato & Ham 150
+ - Teriyaki Chicken & Vegetables 150
+
+Dessert
+* Cake
+ - Red Velvet Cake 250
+ - Chocolate Moist Cake 250
+ - Butter Scotch Cake 300
+ - Blueberry Cheese Cake 300
+ - Black Forest Cake 400
+ - White Forest Cake 400
+
+* Parfait Dessert
+ - Strawberry Heaven 250
+ - Choco Berry Celebration 250
+ - Choco Banana Split 250
+ - Mango Fantasy 250
+
+Drinks
+* Cold Beverages
+ - Iced Tea 100 110 120
+ - Iced Coffee 100 110 120
+ - Iced Latte 120 130 140
+ - Iced Caramel Latte 130 150 170
+ - Iced Cafe Mocha 130 150 170
+ - Iced Macha Latte 130 150 170
+ - Iced Premium Chocolate 130 150 170
+ - Iced Royal Milk Tea 130 150 170
+ - Tropical Milk Shake 160 170 180
+ - Strawberry Smoothie 160 170 180
+ - Choco Banana Smoothie 160 170 180
+
+* Hot Beverages
+ - Espresso 85 95 -
+ - Chamomile Tea - 100 -
+ - Americano - 110 120
+ - Freshly Brewed Coffee 100 110 120
+ - Latte 120 130 140
+ - Cappuccino 120 130 140
+ - Caramel Cafe Latte 130 150 170
+ - Cafe Mocha 130 150 170
+ - Matcha Latte 130 150 170
+ - Premium Chocolate 130 150 170
+ - Royal Milk Tea 130 150 170
